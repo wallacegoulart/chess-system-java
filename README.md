@@ -1,3 +1,3 @@
 # chess-system-java
 
-Jogo de Xadrez. Curso Udemy Nelio Alvez.
+Jogo de Xadrez. Curso Udemy do Prof. Nelio Alvez.
